@@ -19,7 +19,7 @@ async function getJoke() {
   jokeElement.innerHTML = data.joke;
 }
 
-// Fetch con Then
+// Fetch con .then
 
 // function getJoke() {
 //   const config = {
